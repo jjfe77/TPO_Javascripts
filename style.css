@@ -1,0 +1,27 @@
+#logo {
+    max-width: 100px !important; 
+}
+
+h2 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+.superpuesto {
+    margin-right: 5em !important;
+    color: aliceblue !important;
+    text-align: right !important;
+}
+.superpuesto2 {
+    margin: 10px !important;
+    color: aliceblue !important;
+}
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.856) !important;
+    color: black !important;
+}
+
+
+
