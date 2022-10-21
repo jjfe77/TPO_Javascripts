@@ -7,6 +7,6 @@ function total_a_pagar(){
     console.log(entrada*2);
     console.log(corresponde_pagar);
     */
-    document.getElementById("costo_total").innerHTML= "Total a Pagar $: " + corresponde_pagar;
+    document.getElementById("costo_total").innerHTML= "Total a Pagar: $" + corresponde_pagar;
 }
 
